@@ -1,1 +1,1 @@
-Counting BillsGIT
+Counting Bills Script
